@@ -20124,7 +20124,7 @@ function JA() {
                     }),
                     v.jsx("img", {
                       src: Ct.logoUrl,
-                      alt: "The Delusional Bull Logo",
+                      alt: "The Meme Bull Logo",
                       className:
                         "relative h-11 w-11 rounded-full object-cover border-2 border-[#D4AF37] group-hover:scale-105 transition duration-300",
                       referrerPolicy: "no-referrer",
@@ -20137,7 +20137,7 @@ function JA() {
                     v.jsx("span", {
                       className:
                         "font-serif font-bold italic tracking-tight text-zinc-900 text-xl leading-tight group-hover:text-[#D4AF37] transition-colors",
-                      children: "THE Delusional Bull",
+                      children: "THE Meme Bull",
                     }),
                     v.jsx("span", {
                       className:
@@ -20348,7 +20348,7 @@ function WA() {
               }),
               v.jsx("img", {
                 src: Ct.logoUrl,
-                alt: "The Delusional Bull Logo",
+                alt: "The Meme Bull Logo",
                 className:
                   "w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out",
                 referrerPolicy: "no-referrer",
@@ -20500,7 +20500,7 @@ function WA() {
                   className:
                     "text-xs font-mono font-bold text-zinc-500 tracking-widest flex items-center gap-2",
                   children: [
-                    "THE Delusional Bull ",
+                    "THE Meme Bull ",
                     v.jsx("span", {
                       className: "text-[#D4AF37]",
                       children: Ct.ticker,
@@ -20605,7 +20605,7 @@ function PA() {
               v.jsx("h3", {
                 className:
                   "text-3xl sm:text-5xl font-serif font-bold italic text-zinc-900",
-                children: "The Legend of the Delusional Bull",
+                children: "The Legend of the Meme Bull",
               }),
             ],
           }),
@@ -20637,7 +20637,7 @@ function PA() {
                           v.jsx("h4", {
                             className:
                               "text-2xl sm:text-3xl font-serif font-bold italic text-zinc-900",
-                            children: "Murad the Delusional Bull",
+                            children: "Murad the Meme Bull",
                           }),
                           v.jsx("span", {
                             className: "text-3xl",
@@ -20653,7 +20653,7 @@ function PA() {
                             className:
                               "border-l-4 border-[#D4AF37] pl-4 py-1 italic font-semibold text-zinc-800",
                             children: [
-                              '"Murad Mahmudov — Delusional Bulls Will Win in the End.',
+                              '"Murad Mahmudov — Meme Bulls Will Win in the End.',
                             ],
                           }),
                           v.jsxs("p", {
@@ -20684,7 +20684,7 @@ function PA() {
                                 className:
                                   "font-serif italic font-bold text-zinc-900 text-sm tracking-wide",
                                 children:
-                                  "Gm frens. Time to ape the Delusional Bull.",
+                                  "Gm frens. Time to ape the Meme Bull.",
                               }),
                             ],
                           }),
@@ -20827,7 +20827,7 @@ function $A() {
                 className:
                   "mt-4 text-zinc-600 max-w-2xl mx-auto text-sm sm:text-base font-sans",
                 children:
-                  "No utility, no false promises. Just standard, pure, decentralized Ethereum memecoin power. Follow these simple steps to join the Delusional Bull Supercycle.",
+                  "No utility, no false promises. Just standard, pure, decentralized Ethereum memecoin power. Follow these simple steps to join the Meme Bull Supercycle.",
               }),
             ],
           }),
@@ -21062,7 +21062,7 @@ function t3() {
               v.jsx("h3", {
                 className:
                   "text-3xl sm:text-5xl font-serif font-bold italic text-zinc-900",
-                children: "Delusional Bull Metrics",
+                children: "Meme Bull Metrics",
               }),
               v.jsx("p", {
                 className:
@@ -21143,7 +21143,7 @@ function e3() {
                     children: [
                       v.jsx("img", {
                         src: Ct.logoUrl,
-                        alt: "The Delusional Bull",
+                        alt: "The Meme Bull",
                         className:
                           "h-10 w-10 rounded-full border-2 border-[#D4AF37] object-cover",
                         referrerPolicy: "no-referrer",
@@ -21151,7 +21151,7 @@ function e3() {
                       v.jsx("span", {
                         className:
                           "font-serif font-bold italic text-zinc-900 text-xl tracking-wide",
-                        children: "THE Delusional Bull",
+                        children: "THE Meme Bull",
                       }),
                     ],
                   }),
@@ -21220,7 +21220,7 @@ function e3() {
                           href: "#about",
                           className:
                             "text-zinc-600 hover:text-[#D4AF37] transition",
-                          children: "The Delusional Bull Story",
+                          children: "The Meme Bull Story",
                         }),
                       }),
                       v.jsx("li", {
@@ -21281,7 +21281,7 @@ function e3() {
             children: [
               v.jsxs("p", {
                 className: "text-xs font-mono text-zinc-500",
-                children: ["© ", a, " The Delusional Bull. All rights reserved."],
+                children: ["© ", a, " The Meme Bull. All rights reserved."],
               }),
               v.jsxs("div", {
                 className: "flex gap-4 text-xs font-mono text-zinc-500",
