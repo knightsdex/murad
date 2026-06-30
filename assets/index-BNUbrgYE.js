@@ -20921,7 +20921,6 @@ function $A() {
                         className: "text-[#D4AF37]",
                         children: "Ready to join",
                       }),
-                      " Murad's meta?",
                     ],
                   }),
                   v.jsx("p", {
