@@ -21113,24 +21113,6 @@ function t3() {
               )
             ),
           }),
-          v.jsxs("div", {
-            className:
-              "mt-16 p-8 rounded-3xl bg-[#F5F5F0] border-2 border-dashed border-gray-300 text-center max-w-3xl mx-auto shadow-sm",
-            children: [
-              v.jsx("span", { className: "text-3xl", children: "🐂" }),
-              v.jsx("h4", {
-                className:
-                  "text-lg font-serif font-bold italic text-zinc-900 mt-4 mb-2",
-                children: "The Golden Rule of the Supercycle",
-              }),
-              v.jsx("p", {
-                className:
-                  "text-xs text-zinc-600 max-w-xl mx-auto leading-relaxed font-sans",
-                children:
-                  "In traditional finance, bankers print capital to dilute your labor. In the $MURAD ecosystem, supply is fixed at 1 Billion, and only communities with extreme diamond conviction win. Welcome to the new paradigm.",
-              }),
-            ],
-          }),
         ],
       }),
     ],
