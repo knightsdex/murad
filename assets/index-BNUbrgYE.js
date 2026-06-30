@@ -12637,7 +12637,7 @@ const Ct = {
   twitterUrl: "https://x.com/muradoneth",
   pumpFunUrl:
     "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
-  logoUrl: "https://pbs.twimg.com/media/HL6Y-C1XYAAlPYO?format=jpg&name=small",
+  logoUrl: "./muradlogo.jpg",
 };
 /**
  * @license lucide-react v0.546.0 - ISC
