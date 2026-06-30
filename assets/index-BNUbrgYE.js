@@ -20095,7 +20095,7 @@ function JA() {
   const c = [
     { name: "About", href: "#about" },
     { name: "How to Buy", href: "#how-to-buy" },
-    { name: "Calculator", href: "#calculator" },
+    // { name: "Calculator", href: "#calculator" },
     { name: "Tokenomics", href: "#tokenomics" },
   ];
   return v.jsxs("header", {
@@ -20321,7 +20321,7 @@ function WA() {
               "THE ",
               v.jsx("span", {
                 className:
-                  "text-transparent bg-clip-text bg-gradient-to-r from-[#D4AF37] to-[#B89420]",
+                  "inline-block pl-5 pr-12 tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-[#D4AF37] to-[#B89420]",
                 children: "Delusional",
               }),
               "  BULL",
@@ -21250,14 +21250,14 @@ function e3() {
                           children: "How to Buy on Uniswap",
                         }),
                       }),
-                      v.jsx("li", {
-                        children: v.jsx("a", {
-                          href: "#calculator",
-                          className:
-                            "text-zinc-600 hover:text-[#D4AF37] transition",
-                          children: "Supercycle Simulator",
-                        }),
-                      }),
+                      // v.jsx("li", {
+                      //   children: v.jsx("a", {
+                      //     href: "#calculator",
+                      //     className:
+                      //       "text-zinc-600 hover:text-[#D4AF37] transition",
+                      //     children: "Supercycle Simulator",
+                      //   }),
+                      // }),
                       v.jsx("li", {
                         children: v.jsx("a", {
                           href: "#tokenomics",
