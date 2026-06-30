@@ -12632,11 +12632,11 @@ function lx() {
 var sx = lx();
 const Ct = {
   ticker: "$MURAD",
-  contractAddress: "0xComingSoon",
+  contractAddress: "0x62b6e535c028d3efab95d24fc37449b1195dc9cd",
   telegramUrl: "https://t.me/muradoneth",
   twitterUrl: "https://x.com/muradoneth",
   pumpFunUrl:
-    "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon",
+    "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x62b6e535c028d3efab95d24fc37449b1195dc9cd",
   logoUrl: "./muradlogo.jpg",
 };
 /**
