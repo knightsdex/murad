@@ -20322,7 +20322,7 @@ function WA() {
               v.jsx("span", {
                 className:
                   "inline-block pl-5 pr-12 tracking-wide text-transparent bg-clip-text bg-gradient-to-r from-[#D4AF37] to-[#B89420]",
-                children: "Delusional",
+                children: "Meme",
               }),
               "  BULL",
             ],
@@ -20749,7 +20749,7 @@ function PA() {
                           className: "flex justify-center twitter-embed-container",
                           dangerouslySetInnerHTML: {
                             __html:
-                              '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delusional SPX6900 Aeons Will Win in the End.<br><br>Join us.<br><br>We Will Persist Forever 💹🧲 <a href="https://t.co/X3ZJxAoBys">pic.twitter.com/X3ZJxAoBys</a></p>&mdash; maddox 💹🧲 (@maddox00000) <a href="https://x.com/maddox00000/status/2042712300616872382?ref_src=twsrc%5Etfw">April 10, 2026</a></blockquote>',
+                              '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Meme SPX6900 Aeons Will Win in the End.<br><br>Join us.<br><br>We Will Persist Forever 💹🧲 <a href="https://t.co/X3ZJxAoBys">pic.twitter.com/X3ZJxAoBys</a></p>&mdash; maddox 💹🧲 (@maddox00000) <a href="https://x.com/maddox00000/status/2042712300616872382?ref_src=twsrc%5Etfw">April 10, 2026</a></blockquote>',
                           },
                         }),
                       ],
